@@ -47,7 +47,7 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/VladKalinov/StandSRV-1.0f1-Metadata-decryptor.git
+git clone https://github.com/VladKalinov/Metadata-decryptor.git
 cd StandSRV-1.0f1-Metadata-decryptor
 ```
 
