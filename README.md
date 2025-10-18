@@ -1,4 +1,4 @@
-# StandSRV-1.0f1-Metadata-decryptor
+# Metadata-decryptor
 
 <div align="center">
 
